@@ -1,0 +1,10 @@
+﻿{
+		"NEWSLETTER_BEGIN_STYLES": "<html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0' /></head><body><div name='container'><div style='background-color:#000066; border:solid thin gray; -webkit-border-radius: 0.5em; border-radius: 0.5em; width:100%; padding-top:10px; padding-bottom:10px;'><h1 style='width:380px; margin: 0 auto; color:rgb(255,255,255); font-family:Verdana, Geneva, sans-serif;font-weight:bold;font-size:2.5em'>Canisius College Rugby News</h1></div>",
+		"NEWSLETTER_MID_STYLES": "<div name='body' style='-webkit-border-radius: 0.5em;-mozilla-border-radius: 0.5em;border-radius: 0.5em;padding:2%;font-size:1em;'>",
+		"NEWSLETTER_END_STYLES": "</div></body></html>",
+
+		"FROM": "admin@canisiusrugby.org",
+		"FROM_NAME": "Canisius College Rugby Club Newsletter",
+
+		"secret": "RONALD FRANK ASTRIDGE JR"
+}
