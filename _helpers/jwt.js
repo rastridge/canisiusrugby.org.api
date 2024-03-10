@@ -14,10 +14,7 @@ function jwt() {
 			"/", // filemanager
 			"//test", //
 			"//api/test", //
-			"//Upload", // filemanager
-			"//Location", // filemanager
-			"//Download", // filemanager
-			/\/GetImage?.+/, // filemanager
+
 			"//accounts", //
 			"//accounts/addbyregister", //
 			"//accounts/add", //
