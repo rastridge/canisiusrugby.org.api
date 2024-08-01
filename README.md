@@ -1,4 +1,4 @@
-# ===== Deployment of javascript server https api.canisiusrugby.org ============================
+# Deployment of javascript server at https://api.canisiusrugby.org
 
 ## enable Proxy server on api.canisiusrugby.org
 
@@ -8,7 +8,7 @@
 https://panel.dreamhost.com/
 ```
 
-## code server and apply changes
+## code the server and apply changes
 
 - vscode api.canisiusrugby.org
 
