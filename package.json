@@ -1,0 +1,32 @@
+{
+	"scripts": {
+		"serve": "nodemon ` + prefix + `api_server.js"
+	},
+	"dependencies": {
+		"archiver": "^3.1.1",
+		"cors": "^2.8.5",
+		"dotenv": "^8.6.0",
+		"elasticemail-webapiclient": "^2.0.14",
+		"express": "^4.17.1",
+		"express-jwt": "^5.3.3",
+		"fs": "0.0.2",
+		"generate-password": "^1.5.1",
+		"https": "^1.0.0",
+		"jsonwebtoken": "^8.5.1",
+		"md5": "^2.3.0",
+		"moment": "^2.29.1",
+		"multer": "^1.4.2",
+		"mysql2": "^2.2.5",
+		"nocache": "^2.1.0",
+		"nodemailer": "^6.4.15",
+		"path": "^0.12.7",
+		"pdfjs": "^2.4.2",
+		"rimraf": "^3.0.2",
+		"rootpath": "^0.1.2",
+		"sharp": "^0.25.4",
+		"twilio": "^3.51.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.6"
+	}
+}
